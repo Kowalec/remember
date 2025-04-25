@@ -1,4 +1,4 @@
- # Remember
+# Remember
 
 [English](#english) | [Polski](#polski)
 
@@ -42,6 +42,14 @@ Uruchom aplikację komendą:
 ```bash
 python main.py
 ```
+
+### Zrzuty ekranu
+
+![Główne okno aplikacji](https://kowalec.pl/rem1.png)
+*Główne okno aplikacji z listą przypomnień*
+
+![Dodawanie nowego przypomnienia](https://kowalec.pl/rem2.png)
+*Okno dodawania nowego przypomnienia*
 
 ### Użytkowanie
 
@@ -95,6 +103,14 @@ Launch the application with:
 ```bash
 python main.py
 ```
+
+### Screenshots
+
+![Main application window](https://kowalec.pl/rem1.png)
+*Main application window with reminders list*
+
+![Adding a new reminder](https://kowalec.pl/rem2.png)
+*New reminder creation window*
 
 ### Usage
 
